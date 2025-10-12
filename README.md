@@ -126,5 +126,3 @@ This project is open for **educational and personal use**.
 You may freely modify or extend it to explore Java OOP principles or build more complex financial systems.
 
 ---
-
-Would you like me to **generate this as a downloadable `README.md` file** (ready to upload to GitHub)?
